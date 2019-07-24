@@ -7,3 +7,5 @@ if (count === 1) {
 } else {
 	console.log(count, thing+"s")
 }
+
+//console.log("There are ${count} ${thing}s")
